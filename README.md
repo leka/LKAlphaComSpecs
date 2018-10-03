@@ -4,7 +4,6 @@
 [![swift-version](https://img.shields.io/badge/Swift-4.2-orange.svg?style=flat)](swift.org)
 [![Build Status](https://travis-ci.org/leka/LKAlphaComSpecs.svg)](https://travis-ci.org/leka/LKAlphaComSpecs)
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=leka-LKAlphaComSpecs&metric=alert_status)](https://sonarcloud.io/dashboard?id=leka-LKAlphaComSpecs)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=leka-LKAlphaComSpecs&metric=coverage)](https://sonarcloud.io/dashboard?id=leka-LKAlphaComSpecs)
 [![SwiftBinarySearch](https://img.shields.io/badge/license-Apache--2.0-lightgrey.svg)](https://github.com/ladislas/SwiftBinarySearch/blob/master/LICENSE)
 
 ## About
